@@ -7,15 +7,9 @@ To Develop a program for creating a option menu using checkboxes and display the
 
 Android Studio(Min. required Artic Fox)# Ex_8_CheckBox
 Develop a program to create a option menu using checkboxes and display the toast selected checkboxes with Android Studio
-## AIM:
-To Develop a program for creating a option menu using checkboxes and display the toast selected checkboxes with Android Studio.
-
-## EQUIPMENTS REQUIRED:
-
-Android Studio(Min. required Artic Fox)
-
 
 ## ALGORITHM:
+
 Step 1: Open Android Studio and then click on File -> New -> New project.
 
 Step 2: Then type the Application name as SMSIntent and click Next.
